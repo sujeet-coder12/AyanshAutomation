@@ -1,6 +1,7 @@
 import sliding from "../assets/sliding.jpeg";
 import door from "../assets/door.jpeg";
-import boom from "../assets/boom.jpeg"
+import boom from "../assets/boom.jpeg";
+import pvc from "../assets/pvc.jpeg";
 
 function Services() {
   return (
@@ -16,7 +17,7 @@ function Services() {
           <p>An automatic sliding door is a sensor-based door that opens and closes automatically along a horizontal track, providing convenience,
              safety, and a modern look.
           </p>
-          {/* <a href="#">Learn More →</a> */}
+         
         </div>
 
         <div className="service-card">
@@ -35,17 +36,17 @@ function Services() {
             A Boom barrier with RFID is an automated vehicle access control system that uses
             RFID tags to allow authorized vehicles to enter and exit seamlessly without manual intervention.
           </p>
-          {/* <a href="#">Learn More →</a> */}
+         
         </div>
 
         <div className="service-card">
-          <h3>After-Sales Support</h3>
-          <img src={sliding} alt="After Sales Support" />
+          <h3>PVC Curtain</h3>
+          <img src={pvc} alt="After Sales Support" />
           <p>
-            Dedicated post-installation support, maintenance, and
-            troubleshooting to keep your systems running smoothly.
+            PVC curtains are flexible transparent strip barriers used in industrial and commercial spaces to 
+            control temperature, save energy, and block dust and insects while allowing easy access.
           </p>
-          <a href="#">Learn More →</a>
+         
         </div>
 
       </div>
