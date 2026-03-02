@@ -34,7 +34,7 @@ const About = () => {
             <h3>Our Work</h3>
 
             <ul className="work-list">
-              <li>Manual Sliding Door</li>
+              <li>Automatic Sliding Door</li>
               <li>Automatic Sliding/Swing Gate</li>
               <li>Boom Barrier with RFID System</li>
               <li>Roll-Up Door</li>
