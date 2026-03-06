@@ -84,10 +84,6 @@ export default function Contact() {
           <button type="submit" className="btn-submit">
             Send Message
           </button>
-<<<<<<< HEAD
-          
-=======
->>>>>>> 6244ac3efcc2d9e064dd5a0a8cc63344dc0d1b52
         </form>
       </div>
     </section>
