@@ -1,4 +1,3 @@
-
 import React from "react";
 
 const About = () => {
@@ -54,12 +53,10 @@ const About = () => {
         <h3>Contact Us</h3>
 
         <div className="contact-buttons">
-          {/* Call Button */}
           <a href="tel:+919136064696" className="call-btn">
             <i className="fas fa-phone"></i> Call Now
           </a>
 
-          {/* WhatsApp Button */}
           <a
             href="https://wa.me/919136064696"
             target="_blank"
@@ -74,6 +71,7 @@ const About = () => {
           Mobile: +91 9136064696 / +91 8655291742
         </p>
       </div>
+
     </section>
   );
 };
