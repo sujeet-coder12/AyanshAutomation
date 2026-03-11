@@ -7,14 +7,14 @@ const Owner = () => {
       <div className="owner-container">
 
         {/* Owner Image */}
-        <div className="owner-image">
+        {/* <div className="owner-image">
           <img src={dhanraj} alt="Owner" />
-        </div>
+        </div> */}
 
         {/* Owner Details */}
         <div className="owner-details">
           {/* <h2>Owner</h2> */}
-          <h3>Mr. Dhanraj Yadav</h3>
+          <h3>From Owner Desk</h3>
 
           <p>
             Founder of <strong>Ayansh Automation & Hygiene System</strong> with over
@@ -40,7 +40,7 @@ const Owner = () => {
           <div className="owner-buttons">
 
             {/* Call */}
-            <a href="tel:+918655291742" className="owner-call">
+            <a href="tel:+919136064696" className="owner-call">
               <i className="fas fa-phone"></i> Call
             </a>
 

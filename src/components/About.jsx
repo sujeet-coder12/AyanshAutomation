@@ -68,7 +68,7 @@ const About = () => {
         </div>
 
         <p className="contact-number">
-          Mobile: +91 9136064696 / +91 8655291742
+          Mobile: +91 9136064696 
         </p>
       </div>
 

@@ -874,9 +874,10 @@ body {
 }
 
 .owner-details h3 {
-  font-size: 24px;
+  font-size: 30px;
   margin-bottom: 15px;
-  color: #1e6bff;
+  color: #6f9ae9;
+  text-align: center;
 }
 
 .owner-details p {
@@ -897,6 +898,7 @@ body {
   margin-top: 20px;
   display: flex;
   gap: 15px;
+  justify-content: center;
 }
 
 .owner-call,
